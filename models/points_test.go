@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/influxdata/influxdb1-client/models"
+	"github.com/orourkedd/influxdb1-client/models"
 )
 
 var (

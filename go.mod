@@ -1,3 +1,3 @@
-module github.com/orourkedd/influxdb1-client
+module github.com/freeznet/influxdb1-client
 
 go 1.12

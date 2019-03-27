@@ -1,5 +1,5 @@
 // Package client implements a now-deprecated client for InfluxDB;
-// use github.com/freeznet/influxdb1-client/v2 instead.
+// use github.com/freeznet/influxdb1-client/client instead.
 package client // import "github.com/freeznet/influxdb1-client"
 
 import (

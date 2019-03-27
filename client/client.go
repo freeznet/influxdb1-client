@@ -1,5 +1,5 @@
 // Package client (v2) is the current official Go client for InfluxDB.
-package client // import "github.com/freeznet/influxdb1-client/v2"
+package client // import "github.com/freeznet/influxdb1-client/client"
 
 import (
 	"bytes"
